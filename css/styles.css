@@ -7,11 +7,15 @@ h1, h2, h3 {
 } 
 
 h2 {
-    color: #3046c5;
+    color: #CEC8FF;
 }
 
 header h2 {
     color: #CEC8FF;
+}
+
+h3 {
+    color:white
 }
 
 .site-footer {
@@ -22,7 +26,7 @@ header h2 {
 .jumbotron {
     margin: 0;
     padding: 30px;
-    background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
+    background-image: linear-gradient(to right, #5637DD, #2f40a3, #60106B);
     color: white;
 }
 
@@ -30,6 +34,7 @@ header h2 {
     padding: 50px 0;
     border-bottom: 1px ridge;
     min-height: 200px;
+    background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
 }
 
 .navbar {
